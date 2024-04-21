@@ -89,7 +89,7 @@ const Home = () => {
               </div>
             </div>
             <a
-              href="https://drive.google.com/file/d/1JqkZl2nMlsEb9HIIDePWunlfUQ5rznSQ/view?usp=sharing"
+              href="https://drive.google.com/file/d/1y4PirnU1qcSIKiIUBf5f7spBopWFp0YC/view?usp=sharing"
               target="_blank"
               rel="noreferrer"
               className="flex justify-center tracking-wider items-center lg:justify-normal mt-12  gap-3 text-xl text-gray-800 font-semibold hover:text-cyan-700"
